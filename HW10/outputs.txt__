@@ -1,0 +1,7 @@
+Distance(P1,P2) = 100.0
+Distance(P1,L12) = 0.0
+Angle(L12,L23) = 90.0
+Angle(L12,L34) = 0.0
+
+Unfortunately I failed to handle Polygons.
+--NOT_IMPLEMENTED--
